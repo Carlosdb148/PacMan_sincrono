@@ -1,1 +1,2 @@
 Me falta por hacer que el fantasma se mueva también
+Y que cuando el fantasma toque al Pacman se acabe
