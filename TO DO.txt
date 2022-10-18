@@ -1,1 +1,1 @@
-Me falta que si el Pacman llega a la posición del fantasma (como si se lo comiera él) se quede el 0 del fantasma y no se mueva el fantasma
+Me falta que si el Pacman llega a la posición del fantasma (como si se lo comiera él) se quede el 0 del fantasma y no se mueva el fantasma, y borrar el event listener cuando pase esto
